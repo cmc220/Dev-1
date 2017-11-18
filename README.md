@@ -5,5 +5,13 @@
 				"responses": {
           "200": {
             "description": "Success",
-					"404": {
+	  "404": {
            	"description": " Data NotFound",
+ "Owner": {
+ 	"description": "Info Available",
+	"properties":{
+		"display_name": {
+			"description": "cmc"
+			"type": "string"
+		"name": {	
+			"description": "cmc"
